@@ -18,7 +18,7 @@ A simple script which automatically types your message unlimited times
  3. And follow the code instructions
  4. That's it!!
 
-# Screenshot
+# Screenshots
 ![Preview](Images/img1.jpg)
 ![Preview](Images/img2.jpg)
 ![Preview](Images/img3.jpg)
