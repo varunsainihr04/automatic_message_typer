@@ -28,5 +28,6 @@ for i in range(int(msg)):
     time.sleep(1)
     pyautogui.press("enter")
 
+print(' ')
 print('Message typed sucessfully')
 time.sleep(10)
